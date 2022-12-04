@@ -1,1 +1,1 @@
-* [ ] Extract out *profile* and *output* into a config file. 
+* [ ] In aws-list-cf-active.sh, extract out *profile* and *output* into a config file. 
